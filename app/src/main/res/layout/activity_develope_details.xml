@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DevelopeDetails"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/sykat_image"
+        android:layout_marginBottom="30dp"
+        />
+
+    <TextView
+        style="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/developar_name"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        style="@style/TextAppearance.AppCompat.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/developar_details"/>
+
+    <TextView
+        style="@style/TextAppearance.AppCompat.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/developar_email"
+        android:layout_marginBottom="20dp"/>
+
+
+
+    <LinearLayout
+
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp">
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:id="@+id/facebookButtonId"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/facebook"
+            android:layout_marginRight="50dp"/>
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:id="@+id/twitterButtonId"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/twitter"/>
+
+        <ImageButton
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:id="@+id/linkedidButtonId"
+            android:layout_marginLeft="50dp"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/linkedin"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

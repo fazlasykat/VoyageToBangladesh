@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/sampleImageViewId"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/bangladesh71"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingTop="3dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/layout_background"
+        android:id="@+id/sampleTitleTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textAlignment="center"
+        android:text="Things to do In Bangladesh"
+        style="@style/TextAppearance.AppCompat.Large"/>
+
+    <ScrollView
+        android:layout_marginTop="5dp"
+        android:background="@drawable/layout_background"
+        android:layout_width="match_parent"
+        android:layout_height="280dp">
+
+        <TextView
+            android:id="@+id/sampleDetailsTextViewId"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            style="@style/TextAppearance.AppCompat.Small"
+            android:text="Lorem ipsum dolor sit amet, consectetuer
+             adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+              Cum sociis natoque penatibus et magnis dis parturerdiet a,
+                  venenatis vitae, justo. Nullam dictum
+                   felis eu pede mollis pretium. Integer
+                   tincidunt. Cras dapibus. Vivamus elementum
+                   semper nisi. eo eget bibendum
+            sodales, augue velit cursus nunc,"/>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

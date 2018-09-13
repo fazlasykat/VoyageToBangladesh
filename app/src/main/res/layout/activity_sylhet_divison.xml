@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SylhetDivisonActivity"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:background="@drawable/layout_background"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="vertical"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:layout_gravity="center"
+        android:textAlignment="center">
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textColor="#000"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Things to Do in Sylhet Division"
+            />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp">
+
+        <ListView
+            android:id="@+id/sylhetListViewId"
+            android:listSelector="#afe856"
+            android:padding="10dp"
+            android:divider="#000"
+            android:dividerHeight="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:headerDividersEnabled="true">
+
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

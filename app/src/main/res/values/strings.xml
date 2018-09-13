@@ -1,0 +1,340 @@
+<resources>
+    <string name="app_name">Voyage To Bangladesh</string>
+    <string name="main_activity_title">Voyage To Bangladesh</string>
+
+    <string name="about_bangladesh">   Bangladesh, to the east of India on the Bay of Bengal,
+        is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges),
+        Meghna and Jamuna rivers create fertile plains, and travel by boat is common.On the southern coast, the Sundarbans,
+        an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger</string>
+
+    <string name="devison_title">Divisions</string>
+    <string name="about_devlopar_string">About Devolaper</string>
+    <string name="developar_name">Fazla Karim (Sykat)</string>
+    <string name="developar_details">Android Apps Developar</string>
+    <string name="developar_email">fazlasykat24@gmail.com</string>
+
+
+    <string-array name="devison_names">
+        <item>Barisal Division</item>
+        <item>Chittagong Division</item>
+        <item>Dhaka Division</item>
+        <item>Khulna Division</item>
+        <item>Mymensingh Division</item>
+        <item>Rajshahi Division</item>
+        <item>Rangpur Division</item>
+        <item>Sylhet Division</item>
+    </string-array>
+
+
+    <string-array name="barisal_divison_pleas">
+
+        <item>Kuakata Beach</item>
+        <item>Guthia Mosque</item>
+        <item>Durga sagar</item>
+        <item>Lebur Char</item>
+        <item>Guava Market</item>
+        <item>Kuakata Buddhist Temple</item>
+        <item>Fatrar Char</item>
+        <item>Gangamati Reserved Forest</item>
+
+
+    </string-array>
+
+
+    <string-array name="barisal_divison_string_arry">
+
+        <item>Kuakata (Bengali: কুয়াকাটা) is a town known for its panoramic sea beach.
+        It is in southeastern Bangladesh and is the number two tourist destination in the country.
+        Kuakata beach is a sandy expanse 18 kilometres (11 mi) long and 3 kilometres (1.9 mi) wide.
+        From the beach one can have an unobstructed view of both sunrise and sunset over the Bay of Bengal.
+        </item>
+
+        <item>The Baitul Aman Jame Masjid Complex, commonly known as Guthia Mosque of Barisal,
+        is a mosque complex of Bangladesh having a land area of 14 acres,
+        comparing to the 8.30 acres land area of the national mosque Baitul Mukarram of the country.
+        </item>
+
+        <item>
+            Durga Sagar, known locally as Madhabpasha Dighi, is the biggest pond in southern Bangladesh.
+        It has a total area of about 2500 hectares. The lake is about 11 kilometres away from Barisal city.
+        </item>
+
+        <item>
+            Lebur char is also known as Nembur Chor locally, with 1000 acres area.
+        Many kinds of trees and plants are in this chor, like Keura, Geowa, Goran, Koroi, Golpata etc. It lies in the east corner of Kuakata.
+        Lebur Chor can easily be visited from Kuakata. It’s an attractive place for tourists filled with natural beauty.
+        </item>
+        <item>
+            The southern region of Bangladesh is famous for guavas, more popularly known in Bangladesh as ‘Bengal’s Apple’.
+        Especially in Jhalakathi Sadar Upazila and at Swarupkathi and Banaripara Upazila in Pirozpur, farmers heavily rely on guava farming.
+        Such diversity of life is hardly to be found in other places of the country.
+        Loss in guava farming in one season usually leads to extreme distress for the farmers throughout the year.
+        The current year is one of those.
+        </item>
+        <item>
+            It is the largest Buddhist statue in South Asia.
+        If you visit this Buddhist Temple, you’ll witness the statue of Gautam Buddha as well as the 200 years old temple near to it.
+        You will find hundred years’ old ancient tradition and cultural heritage of traditional Rakhain tribal families.
+        </item>
+
+        <item>
+            Fatrar char is the nice tourist place near Kuakata beach. From Kuakata traveler may visit the Fatrar Chor.
+        Fatrar Chor is the part of the Sundarban forest. Fatrar Char is also known as Fatrar Bon.
+        As the Fatrar Char is the part of Sundarban so it is mangrove forest. Fatrar Bon is fairly big forest in Kuakata.
+        There are many Timber trees available here. The tree of this forest in very hard and strong.
+        And the wood of this trees are very long lasting and also costly.
+        A wood business is started at that place and these woods are supplied in all over the country.
+        </item>
+        <item>It’s an additional part of Sundarban forest and it protects the inner inhabitants against any tidal surge.
+        The Gangamati Reserved Forest is a small mangrove forest in Kuakata. It is very close from the hotel belt in Kuakata.</item>
+
+
+    </string-array>
+
+
+    <string-array name="chittagong_divison_pleas">
+
+        <item>Boga Lake</item>
+        <item>Neval Beach</item>
+        <item>Foys Lake</item>
+        <item>Chittagong Commonwealth War Cemetery</item>
+
+
+    </string-array>
+
+    <string-array name="chittagong_divison_string_arry">
+
+        <item>
+            Bogakain Lake, also called Baga Lake or Boga Lake,
+            is a lake located in Ruma Upazila in the hill district Bandarban, Bangladesh.
+            It is a natural sweet and deep water lake. Its height from sea level is nearly 1,246 feet.
+        </item>
+        <item>
+            Naval Beach is one of the most beautiful places in Chittagong which is favorite for passing leisure time.
+            It is situated in the bank of Karnofuly River which is just on the way to the Chittagong Airport.
+            Though the beach is not sandy beach like other regular beach but you will
+            find something different experience like sitting on the divider wall beside the road. Visitors come
+            here and park their cars beside the wall and enjoy their quality time with friends and family.
+            The visitors can see a nice view of Moving Ships which are just close to concrete wall.</item>
+        <item>
+            Foys Lake is a man-made lake in Chittagong, Bangladesh.
+            It was created in 1924 by constructing a dam across the stream that came down from
+            the hills in the northern part of Chittagong.
+        </item>
+        <item>
+            The Chittagong Commonwealth War Cemetery
+            or Chittagong War Cemetery is a Commonwealth War Graves Commission cemetery in Chittagong, Bangladesh.
+
+        </item>
+
+    </string-array>
+
+
+    <string-array name="dhaka_divison_plase">
+
+        <item>Liberation War Museum</item>
+        <item>Shahid Minar</item>
+        <item>National Parliament House</item>
+        <item>Ahsan Manzil</item>
+
+
+    </string-array>
+
+    <string-array name="dhaka_divison_ditiles_arry">
+
+        <item>
+            The Liberation War Museum (Bengali: মুক্তিযুদ্ধ যাদুঘর Muktijuddho Jadughôr) is a museum in Sher-e-Bangla Nagar,
+            Dhaka, the capital of Bangladesh,
+            which commemorates the Bangladesh Liberation War that led to the independence of Bangladesh from Pakistan.
+        </item>
+        <item>
+            The Shaheed Minar is a national monument in Dhaka, Bangladesh,
+            established to commemorate those killed during the Bengali Language Movement demonstrations of 1952 in then East Pakistan.
+        </item>
+        <item>
+            Jatiya Sangsad Bhaban or National Parliament House,
+            is the house of the Parliament of Bangladesh, located at Sher-e-Bangla Nagar in the Bangladeshi capital of Dhaka.
+        </item>
+        <item>
+            Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka.
+            The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh.
+            Construction was started in 1859 and was completed in 1872.
+        </item>
+        <item>
+            Sonargaon was a historic administrative, commercial and maritime centre in Bengal.
+            Situated in the centre of the Ganges delta, it was the seat of the medieval Muslim rulers and governors of eastern Bengal.
+        </item>
+
+    </string-array>
+
+
+    <string-array name="khulna_division_plase">
+
+        <item>Shait Gumbad Mosque</item>
+        <item>Sundarban</item>
+        <item>Fakir Lalon Shahs Mazaar</item>
+        <item>Shilaidaha Kuthibari-Rabindranath Tagores Residence</item>
+        <item>1971: Genocide-Torture Archive and Museum</item>
+
+    </string-array>
+
+    <string-array name="khulna_divison_ditels_string">
+        <item>
+            The Sixty Dome Mosque, a UNESCO World Heritage Site, is a mosque in Bangladesh,
+            the largest in that country from the Sultanate period.
+            It has been described as "the most impressive Muslim monuments in the whole of the Indian subcontinent.
+        </item>
+        <item>
+            The Sundarbans is a vast forest in the coastal region of the Bay of Bengal.
+            Located in the delta region of Padma, Meghna and Brahmaputra river basins,
+            this unique forest extends across Khulna, Satkhira
+        </item>
+        <item>
+            Shilaidaha KuthibadiIn 1890 Tagore started managing their family estates in Shelaidaha.
+            He stayed there for over a decade at irregular intervals between 1891 and 1901.
+            It is a country house built by the father of Rabindranath, Maharshi Debendranath Tagore.
+            The house was repossessed by a Bank; the Tagore Estate was a debtor to this Bank,
+            who auctioned off the property and it became the possession of the Zamindar of Bhagyakul (Munshiganj),
+            Roy family. The house was part of Roy Estate till the Zamindari system was abolished under the East Bengal
+            State Acquisition and Tenancy Act of 1950. Syed Murtaza Ali, during his tenure as Divisional Commissioner
+            of Rajshahi took the initiative to preserve the dilapidated house in 1958. During this renovation,
+            the color of the house was inadvertently changed to red like other houses belonged to the former
+            Zamindars of the district.
+        </item>
+
+        <item>
+            Rabindranath Tagore (1861-1941) frequently visited and used to stay in Shilaidaha Kuthibari in
+            connection with the administration of his Zamindari and enriched Bengali literature through his quality writing during that time. He wrote many memorable poems during his stay here. He built it as his residence/office for collecting revenue as a zamindar,
+            from local peasants. It is now a museum under Archaeology department of Ministry of Cultural Affairs.
+        </item>
+
+        <item>
+            The “1971: Genocide-Torture Archive and Museum”
+            in Khulna city speaks the tale of the bloodbath the country witnessed throughout the nine long months of Liberation War.
+        </item>
+
+
+    </string-array>
+
+
+    <string-array name="mymensingh_divison_plase">
+
+        <item>Dewanganj Sugar Mill</item>
+        <item>Doyamoye Temple</item>
+        <item>Gandhi Asrom</item>
+        <item>Jamuna Fertilizer Factory</item>
+
+
+    </string-array>
+
+    <string-array name="mymensingh_divison_string_arry">
+        <item>Dewanganj (Bengali: দেওয়ানগঞ্জ) is an Upazila of Jamalpur District, Mymensingh Division,
+            Bangladesh.It covers an area of 266.59 km2 (102.93 sq mi), and is bounded by Char Rajibpur Upazila to the north,
+            Islampur Upazila to the south, Baksiganj Upazila and Meghalaya, India to the east,
+            Gaibandha Sadar Upazila and Phulchhari Upazila to the west.
+            Its main river is the Jamuna River (the Brahmaputra River).</item>
+        <item>
+            Committees of 321-year-old Doyamoyee Mandir and adjacent 121-year-old Radhamohon Mandir expressed their
+            deep concern over a decision by the district administration to acquire 13.5 decimals of lands of the two
+            ancient temples.
+            They expressed this at a press conference on Doyamoyee temple premises in the town on Sunday after the
+            decision was made at a meeting of the district administration on February 11 to acquire 8.5 decimals
+            of Doyamoyee and 5 decimals of Radhamohon temples for the ongoing under construction project 'Cultural Village'
+            by Local Government and Engineering Department.
+        </item>
+        <item>
+            Gandhi Ashram and Fredom Struggle Museum is located in Melandah , Jamalpur. This is the only museum listed in
+            Jamalpur. There's also nine attractions listed in
+            this district in other categories. You will find the exact location of Gandhi Ashram and Fredom Struggle Museum
+        </item>
+        <item>
+            Jamuna Fertilizer Company Ltd. is a chemical industry and produce Urea.
+            It is Under Bangladesh Chemical Industries Corporation (BCIC),
+            fully owned by the Government. The production capacity of this factory is 5,61,000 M.T. Per year.
+        </item>
+    </string-array>
+
+
+    <string-array name="rajshai_divison_plase">
+
+        <item>Puthia Temple Complex</item>
+        <item>Kantajew Temple</item>
+        <item>Mahasthangarh</item>
+        <item>Ruins of the Buddhist Vihara at Paharpur</item>
+
+
+    </string-array>
+
+    <string-array name="rajshai_divison_detils_arry">
+        <item>The Puthia Temple Complex consists of a cluster of notable old Hindu temples in Puthia Upazila, Rajshahi District,
+            Bangladesh. Located 23 km to the east of Rajshahi city, it has the largest number of historic temples in Bangladesh.</item>
+        <item>
+            Kantanagar Temple, commonly known as Kantaji Temple or Kantajew Temple at Kantanagar, is a late-medieval Hindu temple in Dinajpur,
+            Bangladesh. The Kantajew Temple is one of the most magnificent religious edifices belonging to the 18th century.
+        </item>
+        <item>
+            Mahasthangarh is one of the earliest urban archaeological sites so far discovered in Bangladesh.
+            The village Mahasthan in Shibganj thana of Bogra District contains the remains of an ancient city which
+        </item>
+        <item>Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards, Somapura Mahavira, or the Great Monastery, was a renowned intellectual centre until the 12th century. Its layout perfectly adapted to its religious function, this monastery-city represents a unique artistic achievement. With its simple,
+            harmonious lines and its profusion of carved decoration, it influenced Buddhist architecture as far away as Cambodia.</item>
+    </string-array>
+
+
+    <string-array name="rangpur_divison_plase">
+
+        <item>Tajhat Palace</item>
+        <item>Vinnya Jagat</item>
+        <item>Ramsagar National Park</item>
+        <item>Nayabad Mosque</item>
+
+
+    </string-array>
+
+    <string-array name="rangpur_divison_detils_string_arry">
+
+        <item>Tajhat Palace, Tajhat Rajbari, is a historic palace of Bangladesh, located in Tajhat, Rangpur. This palace now holds the Rangpur museum.
+            Tajhat Palace is situated three km. south-east of the city of Rangpur, on the outskirts of town.</item>
+        <item>Vinno jogot brings lots of fun to northwest of Bangladesh.It is one of the most spectacular (kind of theme) parks in the country and has become a great tourist attraction in Rangpur.
+            It is about 100 acres acres.Vinno Jogot beautify by many rides. This place take you a daydream world.</item>
+        <item>Ramsagar National Park is a national park in Bangladesh located at. 25°33'00"N 88°37'30"E Tejpur,
+            near Dinajpur District in the north-west of the country.</item>
+        <item>Nayabad Mosque or Noyabaad Mosque, is located in Nayabad village in Kaharole Upazila of Dinajpur District,
+            Bangladesh, beside the Dhepa River.
+            It is reputed to have been built for their own use by the architects and builders of Kantajew Temple.</item>
+
+    </string-array>
+
+
+    <string-array name="sylhet_divison_plase">
+
+        <item>Ratargul Swamp Forest</item>
+        <item>Jaflong</item>
+        <item>Bisnakandi</item>
+        <item>Shahjalal Dorgha</item>
+
+
+    </string-array>
+
+
+    <string-array name="sylhet_divison_details_string_arry">
+
+        <item>Ratargul Swamp Forest is a freshwater swamp forest located in Gowain River, Fatehpur Union, Gowainghat, Sylhet, Bangladesh.
+            It is the only swamp forest located in Bangladesh and one of the few freshwater swamp forest in the world.</item>
+        <item>Jaflong is a hill station and popular tourist destination in the Division of Sylhet, Bangladesh.
+            It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh </item>
+        <item>Bisnakandi is located in Rustompur Union of Sylhet district’s Gowainghat upazila. It’s basically like a stone koyari as Jaflong. At Bangladesh-India border point several steps of the Khasiya hills matched at one point. There is a high mount groove. The main attraction of this spot for travelers is to plug the flow of water flowing over rocks. Moreover, monsoon vine is stuck in the clouds on the mountain. The mountain may seem cloud lap nesting. A branch of Piyain river from the east side gone through to the bottom of the hill towards Bholaganj. In all a coalition of mountains,
+            rivers, springs, waterfalls, stones and natural beauty of Bisnakandi is a remarkable place.</item>
+        <item>Shāh Jalāl ad-Dīn al-Mujarrad al-Naqshbandi
+            (Arabic: شاه جلال الدين المجرد النقشبندي‎), popularly known as Hazrat Shah Jalal (Arabic: شاه جلال‎, Bengali: শাহ জালাল,
+            1271 CE – 15 March 1346 CE), is a celebrated Sufi Muslim figure in Bengal.
+            Jalal's name is associated with the spread of Islam into north-eastern Bengal through Sufism, part of a long history
+            of travel between the Middle East, Persia, Central Asia and South Asia. According to a tablet inscription
+            found in Amberkhana, he arrived at Sylhet in 1303 CE.[1] The largest airport in Bangladesh, Hazrat Shahjalal
+            International Airport,
+            is named after him.</item>
+
+    </string-array>
+
+
+</resources>
